@@ -102,9 +102,9 @@ Mình thích làm việc với **Java, Kotlin**, và luôn tò mò khám phá nh
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:duy.hai.network@gmail.com" target="_top">duy.hai.network@gmail.com</a></strong>
 </p>
-<a href="https://youtube.com/@duyhai902" target="_blank">
+<!-- <a href="https://youtube.com/@duyhai902" target="_blank">
   <img src="images/ytb-lo-trinh-hoc-lap-trinh-web-va-gioi-thieu-kenh-trungquandev-mot-lap-trinh-vien.png" width="1200" alt="trungquandev-mot-lap-trinh-vien" />
-</a> 
+</a>  -->
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
