@@ -1,6 +1,6 @@
-<!-- Duyhaidev -->
+<!-- Bourbon1996-->
 <a href="#" target="_blank">
-  <img src="svg/duyhaidev.svg" width="1200" alt="bourbon1996-official" />
+  <img src="svg/Bourbon1996Bourbon1996.svg" width="1200" alt="bourbon1996-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
